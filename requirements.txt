@@ -4,3 +4,9 @@ mcp[cli]
 mcp[server]
 requests
 requests-cache
+yfinance
+pandas
+pandas-ta
+python-dotenv
+setuptools
+wheel
