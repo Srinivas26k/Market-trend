@@ -1,94 +1,103 @@
-# Mult## 🎓 Academic Project Details
+# 🧠 Market Trend Analysis — Multi-Agent System (ADK)
 
-- **Institution**: Indian Institute of Technology Ropar
-- **Course**: Final Semester Module
-- **Project Type**: Multi-Agent System Architecture
-- **Framework**: Google Agent Development Kit (ADK)
-- **Architecture Pattern**: Sequential + Loop Agent Orchestration
+<div align="center">
 
-## 🚀 10-Day AI Challenge
+![IIT Ropar](https://img.shields.io/badge/IIT%20Ropar-Final%20Semester-blue?style=for-the-badge)
+![Framework](https://img.shields.io/badge/Framework-Google%20ADK-00acc1?style=for-the-badge&logo=google)
+![Agents](https://img.shields.io/badge/Agents-Sequential%20%2B%20Loop-6a1b9a?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%2010--Day%20Challenge-orange?style=for-the-badge)
 
-This project is part of my **10-Day Challenge** to build a complete AI agentic market trend analysis system from scratch! Follow the journey as I develop each domain team, implement advanced agent patterns, and create a production-ready multi-agent system.
+</div>
 
-### 📈 Active Development Status
-- ⭐ **Star this repository** to follow real-time development progress
-- 🔄 **Active repo** with daily commits and feature additions
-- 📊 **Live updates** on system architecture and new domain implementations
-- 🎯 **Challenge goal**: Complete 8-domain analysis system in 10 days
+---
 
-### 📱 Follow My Journey
+<div align="center">
 
-**📝 Medium Blog - Daily AI Updates**
-- **Subscribe**: [https://medium.com/@srinivasvarma764](https://medium.com/@srinivasvarma764)
-- Get daily updates on AI news, project progress, and technical insights
-- In-depth articles on multi-agent systems and advanced AI architectures
-- Behind-the-scenes development process and challenges faced
+### 🚀 A modular, **agentic AI system** for real-world **market trend analysis** across **8 domains**
 
-**💼 LinkedIn - Professional Updates**
-- Follow my LinkedIn for professional updates and project milestones
-- Connect with me for discussions on AI agent frameworks and system design
-- Daily progress updates and technical achievements
+Built with **Google ADK** • **Sequential + Loop** agent patterns • **Free tools/MCPs** only
 
-**📊 Repository Updates**
-- ⭐ **Star this repo** to stay notified of new features and improvements
-- 👀 **Watch** for real-time commit notifications
-- 🍴 **Fork** to experiment with your own domain implementationsn Trend Analysis System 🌐
+</div>
 
-**IIT Ropar Final Semester Project | Advanced AI Agent Framework**
+---
 
-A sophisticated multi-agent AI system for comprehensive trend analysis across 8 diverse domains using Google's Agent Development Kit (ADK). This system demonstrates advanced orchestration of Sequential and Loop agents with real-time data processing capabilities.
+## 🎓 Academic Project Details
 
-## � Academic Project Details
+<table>
+<tr>
+<td><strong>🏫 Institution</strong></td>
+<td>Indian Institute of Technology Ropar</td>
+</tr>
+<tr>
+<td><strong>📚 Course</strong></td>
+<td>Final Semester Module</td>
+</tr>
+<tr>
+<td><strong>🔧 Project Type</strong></td>
+<td>Multi-Agent System Architecture</td>
+</tr>
+<tr>
+<td><strong>⚡ Framework</strong></td>
+<td>Google Agent Development Kit (ADK)</td>
+</tr>
+<tr>
+<td><strong>🔄 Pattern</strong></td>
+<td><strong>Sequential + Loop</strong> orchestration (simple, robust, maintainable)</td>
+</tr>
+</table>
 
-- **Institution**: Indian Institute of Technology Ropar
-- **Course**: Final Semester Module
-- **Project Type**: Multi-Agent System Architecture
-- **Framework**: Google Agent Development Kit (ADK)
-- **Architecture Pattern**: Sequential + Loop Agent Orchestration
+> [!NOTE]
+> **10-Day AI Challenge**  
+> I'm building and documenting this system in **10 days**—end-to-end, domain by domain. Follow daily progress on Medium & LinkedIn (links below).
 
-## 🌟 System Features
+---
 
-### Core Capabilities
-- **8 Domain Analysis**: Stock Market, E-commerce, Jobs, Social Media, Travel, Consumer Sentiment, Tech Innovation, Regional Demand
-- **Intelligent Orchestration**: Root orchestrator with domain-specific routing
-- **Self-Validating Agents**: Loop agents ensure data quality and retry failed operations
-- **Real-time Processing**: Live data fetching from multiple sources
-- **Interactive Output**: PDF reports + Streamlit dashboard
-- **Modular Architecture**: Easily extensible agent-based design
+## 🔗 Quick Links
 
-### Technical Features
-- **Multi-Agent Coordination**: Sequential and Loop agent patterns
-- **Web Scraping**: Browser-use MCP for dynamic content extraction
-- **Financial Analysis**: Technical indicators via pandas-ta and yfinance
-- **Sentiment Analysis**: HuggingFace transformer models
-- **Report Generation**: Automated PDF creation with reportlab
-- **Interactive Dashboards**: Real-time visualization with Streamlit
+| Platform | Link |
+|----------|------|
+| 📖 **Live Dev Updates (Medium)** | [https://medium.com/@srinivasvarma764](https://medium.com/@srinivasvarma764) |
+| 💼 **Connect (LinkedIn)** | [https://www.linkedin.com/in/srinivas-nampalli/](https://www.linkedin.com/in/srinivas-nampalli/) |
+| 🔗 **Repository** | [https://github.com/Srinivas26k/Market-trend/](https://github.com/Srinivas26k/Market-trend/) |
 
-## 🏗️ System Architecture
+---
 
-### Phase 1: Entry & Orchestration
-```
-User → Greeting Agent → Root Orchestrator → Domain Selection
-```
+## 🌟 What This System Does
 
-### Phase 2: Domain-Specific Teams (8 Teams)
-Each team follows the pattern: **Sequential Agent** → **Loop Agent** → **Validation**
+<div align="center">
 
-1. **Stock Market Team**: Financial trend analysis with technical indicators
-2. **E-Commerce Team**: Product trend detection and pricing analysis  
-3. **Job Market Team**: Skill demand forecasting and market analysis
-4. **Social Media Team**: Trending topics and hashtag analysis
-5. **Travel Team**: Destination popularity and tourism trends
-6. **Consumer Sentiment Team**: Review analysis and sentiment forecasting
-7. **Tech Innovation Team**: Patent and technology trend mapping
-8. **Regional Demand Team**: Local market spike detection
+### 🎯 8 Domain Trend Analysis
 
-### Phase 3: Aggregation & Reporting
-```
-Team Reports → Report Agent → Output Agent → PDF + Dashboard
-```
+</div>
 
-## 🔄 Agent Flow Architecture
+<table>
+<tr>
+<td align="center"><strong>📈</strong><br/>Stock Market</td>
+<td align="center"><strong>🛒</strong><br/>E-Commerce</td>
+<td align="center"><strong>💼</strong><br/>Jobs</td>
+<td align="center"><strong>📱</strong><br/>Social Media</td>
+</tr>
+<tr>
+<td align="center"><strong>✈️</strong><br/>Travel</td>
+<td align="center"><strong>💭</strong><br/>Consumer Sentiment</td>
+<td align="center"><strong>🔬</strong><br/>Tech Innovation</td>
+<td align="center"><strong>🌍</strong><br/>Regional Demand</td>
+</tr>
+</table>
+
+### 🏗️ Key Features
+
+- **🤖 Agent Orchestration:** Simple **Sequential** + **Loop** pattern per team
+- **💰 Free Tools Only:** `yfinance`, `browser-use` MCP, HuggingFace (local), `pandas`, `reportlab`, `streamlit`
+- **📊 Interactive Output:** PDF reports + lightweight Streamlit dashboard (on demand)
+- **🧩 Modular:** Each domain is a minimal, swappable team (1 sequential agent + 1 loop validator)
+
+---
+
+## 🏗️ Architecture (Mermaid)
+
+> Replace the placeholder below with your diagram if you export it as an image, or keep the Mermaid live.
 
 ```mermaid
 flowchart TD
@@ -173,294 +182,256 @@ flowchart TD
     class output_agent final_output;
 ```
 
-## 🚀 Quick Start
+---
 
-### Prerequisites
+## ✅ Current Status (MVP First)
 
-- Python 3.8+
-- OpenRouter API key (for LLM access)
-- Internet connection (for real-time data scraping)
-- Modern web browser (for browser-use MCP)
+> [!SUCCESS]
+> **Stock Market Team — Implemented** ✅
 
-### Installation
+<div align="center">
 
-1. **Clone the repository**:
+| Component | Status | Description |
+|-----------|--------|-------------|
+| **📊 Sequential** | ✅ | `market_data_agent` → fetch OHLCV via `yfinance`, compute SMA/RSI (`pandas`/`pandas-ta`) |
+| **🔄 Loop** | ✅ | `data_validator_agent` → validate NaNs/empties; retry once if invalid |
+| **📋 Output** | ✅ | compact JSON + (optional) chart/table for downstream |
 
-   ```bash
-   git clone https://github.com/Srinivas26k/Market-trend.git
-   cd Market-trend
-   ```
+</div>
 
-2. **Install dependencies**:
+<div align="center">
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+![Free Tools](https://img.shields.io/badge/Free-Tools-brightgreen?style=flat-square)
+![No Auth](https://img.shields.io/badge/No-Auth-blue?style=flat-square)
+![Retry Once](https://img.shields.io/badge/Retry-Once-orange?style=flat-square)
 
-3. **Set up environment variables**:
+</div>
 
-   ```bash
-   # Create .env file
-   echo "OPENROUTER_API_KEY=your_api_key_here" > .env
-   ```
+---
 
-4. **Test the installation**:
+## 🧩 Tech Stack
 
-   ```bash
-   python test_stock_team.py
-   ```
+<div align="center">
 
-### Basic Usage
+### Core Technologies
 
-```python
-from stock_market_team.agent import root_agent
+</div>
 
-# Initialize the multi-domain trend analysis system
-# User selects domain through greeting agent interface
-result = root_agent.process("Analyze current market trends")
-print(result)
-```
+<table>
+<tr>
+<td><strong>🤖 Agent Framework</strong></td>
+<td>Google <strong>ADK</strong> (Agents, Orchestration)</td>
+</tr>
+<tr>
+<td><strong>🧠 LLM Glue</strong></td>
+<td><strong>LiteLlm</strong> via <strong>OpenRouter</strong> (free <code>gpt-oss-20b:free</code>)</td>
+</tr>
+<tr>
+<td><strong>📈 Finance</strong></td>
+<td><code>yfinance</code>, <code>pandas</code>, <code>pandas-ta</code></td>
+</tr>
+<tr>
+<td><strong>🌐 Web/MCP</strong></td>
+<td><strong>browser-use MCP</strong> + <code>BeautifulSoup</code></td>
+</tr>
+<tr>
+<td><strong>🔤 NLP (optional)</strong></td>
+<td>HuggingFace <code>distilbert-base-uncased-finetuned-sst-2-english</code></td>
+</tr>
+<tr>
+<td><strong>📊 Output</strong></td>
+<td><code>reportlab</code> (PDF), <code>streamlit</code> (dashboard), <code>matplotlib/plotly</code></td>
+</tr>
+</table>
 
-## 📦 Core Dependencies
+> [!TIP]
+> All chosen to be **free** and **auth-light/no-auth** wherever possible.
 
-### AI & Agent Framework
-- **google-adk**: Google Agent Development Kit (Sequential/Loop agents)
-- **litellm**: LLM integration layer for OpenRouter
-- **mcp**: Model Context Protocol for tool integration
+---
 
-### Data Sources & Processing
-- **yfinance**: Stock market data retrieval
-- **pandas**: Data manipulation and analysis
-- **pandas-ta**: Technical analysis indicators
-- **requests**: HTTP client for API calls
-- **requests-cache**: Caching for efficient data retrieval
-
-### Web Scraping & Browser Automation
-- **browser-use MCP**: Dynamic web content extraction
-- **BeautifulSoup**: HTML parsing and scraping
-
-### Sentiment Analysis & NLP
-- **transformers**: HuggingFace model integration
-- **torch**: PyTorch backend for ML models
-
-### Output & Visualization
-- **reportlab**: PDF report generation
-- **streamlit**: Interactive dashboard creation
-- **matplotlib/plotly**: Data visualization
-
-### Utilities
-- **python-dotenv**: Environment variable management
-- **setuptools/wheel**: Package management
-
-
-## 📊 Domain Analysis Capabilities
-
-### 1. Stock Market Trends
-- Real-time OHLCV data analysis
-- Technical indicators (SMA, RSI, MACD)
-- 52-week high/low tracking
-- Volume analysis and price predictions
-
-### 2. E-Commerce Product Trends
-- Trending product detection
-- Price movement analysis
-- Market demand forecasting
-- Competitive product tracking
-
-### 3. Job Market Intelligence
-- Skill demand forecasting
-- Salary trend analysis
-- Industry growth patterns
-- Regional job market insights
-
-### 4. Social Media Trends
-- Hashtag popularity tracking
-- Topic trend analysis
-- Viral content detection
-- Sentiment-driven insights
-
-### 5. Travel & Tourism
-- Destination popularity trends
-- Seasonal travel patterns
-- Price fluctuation analysis
-- Tourism demand forecasting
-
-### 6. Consumer Sentiment
-- Product review analysis
-- Brand sentiment tracking
-- Purchase intention prediction
-- Market reception analysis
-
-### 7. Technology Innovation
-- Patent filing trends
-- Emerging technology mapping
-- Innovation cycle analysis
-- Tech adoption forecasting
-
-### 8. Regional Market Analysis
-- Local demand spike detection
-- Regional preference analysis
-- Geographic trend mapping
-- Market penetration insights
-
-## 🔧 System Configuration
-
-### Environment Variables
-- `OPENROUTER_API_KEY`: Required for LLM API access (OpenAI GPT models)
-
-### Model Configuration
-- Primary Model: `openai/gpt-4o-mini` via OpenRouter
-- Sentiment Model: `distilbert-base-uncased-finetuned-sst-2-english`
-- Fallback Model: `openrouter/openai/gpt-oss-20b:free`
-
-### MCP Tools Configuration
-Each domain team uses specific Model Context Protocol tools:
-- **Stock Team**: yfinance + pandas-ta
-- **E-Commerce Team**: browser-use MCP
-- **Jobs Team**: browser-use MCP
-- **Social Media Team**: browser-use MCP
-- **Travel Team**: browser-use MCP
-- **Consumer Team**: browser-use MCP + HuggingFace transformers
-- **Tech Team**: browser-use MCP
-- **Regional Team**: browser-use MCP
-
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```
 Market-trend/
 ├── greeting_agent/
-│   ├── .gitignore
 │   ├── __init__.py
 │   └── agent.py
 ├── stock_market_team/
 │   ├── subagents/
-│   │   ├── stock_data_analysis/
-│   │   │   ├── .gitignore
+│   │   ├── stock_data_retrieval/
 │   │   │   ├── __init__.py
 │   │   │   └── agent.py
-│   │   ├── stock_data_retrieval/
-│   │   │   ├── .gitignore
-│   │   │   ├── README.md
+│   │   ├── stock_data_analysis/
 │   │   │   ├── __init__.py
 │   │   │   └── agent.py
 │   │   ├── stock_data_validation/
 │   │   │   ├── __init__.py
 │   │   │   └── agent.py
-│   │   ├── stock_data_visualization/
-│   │   │   ├── __init__.py
-│   │   │   └── agent.py
-│   │   └── stock_news_analysis/
+│   │   └── stock_data_visualization/
 │   │       ├── __init__.py
 │   │       └── agent.py
-│   ├── .env
 │   ├── __init__.py
 │   └── agent.py
-├── .gitignore
-├── README.md
+├── report_agent/
+│   └── agent.py
+├── output_agent/
+│   └── agent.py
 ├── guide.md
+├── README.md
 └── requirements.txt
 ```
 
-## 🎯 Academic Learning Objectives
+---
 
-This project demonstrates mastery of:
+## ⚙️ Setup
 
-### Multi-Agent Systems
-- **Sequential Agent Patterns**: Step-by-step processing workflows
-- **Loop Agent Patterns**: Self-validating and retry mechanisms
-- **Agent Orchestration**: Coordinated multi-agent task execution
-- **Domain Specialization**: Task-specific agent design
+### Prerequisites
 
-### Real-World Data Integration
-- **API Integration**: Multiple data source orchestration
-- **Web Scraping**: Dynamic content extraction techniques
-- **Data Validation**: Quality assurance and error handling
-- **Caching Strategies**: Efficient data retrieval patterns
+<div align="center">
 
-### Advanced AI Techniques
-- **LLM Integration**: Multiple model coordination
-- **Sentiment Analysis**: NLP model implementation
-- **Technical Analysis**: Financial indicator computation
-- **Trend Detection**: Pattern recognition across domains
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-Optional-ff6b6b?style=for-the-badge)
 
-### Software Engineering
-- **Modular Architecture**: Clean, extensible codebase
-- **Error Handling**: Robust failure recovery
-- **Testing Strategies**: Comprehensive test coverage
-- **Documentation**: Professional project documentation
+</div>
 
-## 🤝 Contributing
+- Python **3.8+**
+- (Optional) OpenRouter key if you want LLM narrative summaries
 
-**This is an actively developed repository!** 🚀
+### Install
 
-As part of my 10-day AI challenge, this project is under active development with daily updates and new features. Contributions, suggestions, and collaborations are highly welcome!
+```bash
+git clone https://github.com/Srinivas26k/Market-trend.git
+cd Market-trend
+pip install -r requirements.txt
+```
 
-### How to Contribute
+### Environment (optional for LLM)
 
-1. ⭐ **Star the repository** to show support and follow development
-2. 🍴 **Fork the repository** for your own experiments
-3. 🔧 **Create a feature branch** (`git checkout -b feature/domain-enhancement`)
-4. 🎯 **Implement your domain team** following the Sequential + Loop pattern
-5. ✅ **Add comprehensive tests** for your implementation
-6. 📝 **Submit a pull request** with detailed documentation
-
-### Collaboration Opportunities
-
-- **Domain Team Development**: Help implement any of the 8 domain teams
-- **Agent Pattern Enhancement**: Improve Sequential/Loop agent patterns
-- **Testing & Validation**: Add test coverage for new features
-- **Documentation**: Improve guides and examples
-- **Performance Optimization**: Enhance system efficiency
-
-### Development Timeline
-
-Follow the 10-day challenge progress:
-- **Days 1-2**: Core architecture and stock market team
-- **Days 3-4**: E-commerce and job market teams
-- **Days 5-6**: Social media and travel teams
-- **Days 7-8**: Consumer sentiment and tech innovation teams
-- **Days 9-10**: Regional demand team and final integration
-
-### Stay Connected
-
-- 📝 **Medium**: [Daily development updates](https://medium.com/@srinivasvarma764)
-- 💼 **LinkedIn**: Professional progress and milestones
-- 🐙 **GitHub**: Real-time commits and feature releases
-
-## 📄 License
-
-This project is licensed under the MIT License - appropriate for academic and educational use.
-
-## 🙋‍♂️ Support & Documentation
-
-### Academic Resources
-- Review `guide.md` for detailed agent implementation instructions
-- Study the Mermaid flowchart for system architecture understanding
-- Examine test files for usage patterns and examples
-
-### Technical Support
-- Check GitHub Issues for common problems
-- Run test scripts to verify your environment setup
-- Review logs for debugging agent interactions
-
-## 🏆 Acknowledgments
-
-### Academic Institution
-- **Indian Institute of Technology Ropar** - Final Semester Project Framework
-- Course instructors and academic advisors
-
-### Technology Stack
-- **Google Agent Development Kit (ADK)** - Multi-agent framework
-- **OpenRouter** - LLM API access and model coordination
-- **Yahoo Finance** - Financial data provision
-- **HuggingFace** - Transformer models and NLP capabilities
-
-### Open Source Community
-- All the amazing open-source libraries that make this project possible
-- The Python data science and AI community for tools and inspiration
+```bash
+# .env
+OPENROUTER_API_KEY=your_key_here
+```
 
 ---
 
-**Academic Note**: This system is designed for educational and research purposes as part of IIT Ropar's final semester curriculum. The project demonstrates advanced AI agent coordination, real-world data integration, and sophisticated trend analysis capabilities across multiple domains.
+## 🚀 Usage (Stock Team Demo)
 
-**Disclaimer**: All trend analyses and predictions generated by this system are for academic demonstration purposes only and should not be used for actual financial, business, or investment decisions.
+```python
+# examples/demo_stock.py
+from stock_market_team.agent import run_stock_pipeline
+
+result = run_stock_pipeline(
+    symbol="INFY.NS",
+    period="3mo",
+    indicators=["SMA_20","RSI_14"],
+    retry=True  # loop agent will refetch once if invalid
+)
+print(result["summary"])
+```
+
+> [!NOTE]
+> The **greeting agent** → **root orchestrator** route will be used in the UI flow.
+> Programmatic demos let you test sub-teams in isolation.
+
+---
+
+## 🧰 MCP / Tools Configuration
+
+<div align="center">
+
+### Tool Stack Overview
+
+</div>
+
+<table>
+<tr>
+<td><strong>📈 Stock</strong></td>
+<td><code>yfinance</code>, <code>pandas</code>, <code>pandas-ta</code> (no auth)</td>
+</tr>
+<tr>
+<td><strong>🕷️ Scraping</strong></td>
+<td><strong>browser-use MCP</strong> + <code>BeautifulSoup</code> (free)</td>
+</tr>
+<tr>
+<td><strong>🔤 NLP (optional)</strong></td>
+<td>HuggingFace local models (free)</td>
+</tr>
+<tr>
+<td><strong>📊 Reports</strong></td>
+<td><code>reportlab</code> (PDF), <code>streamlit</code> (dashboard)</td>
+</tr>
+</table>
+
+> [!TIP]
+> Keep it simple: 1 **Sequential** agent + 1 **Loop** agent per domain.
+
+---
+
+## 🗺️ 10-Day Roadmap
+
+<div align="center">
+
+### Development Timeline
+
+</div>
+
+- [x] **Day 1–2:** Core scaffolding + **Stock Market Team**
+- [ ] **Day 3–4:** **E-Commerce** & **Jobs**
+- [ ] **Day 5–6:** **Social** & **Travel**
+- [ ] **Day 7–8:** **Consumer Sentiment** & **Tech Innovation**
+- [ ] **Day 9–10:** **Regional Demand** + Integration + Polish
+
+---
+
+## 🤝 Contributing
+
+<div align="center">
+
+### Join the Development
+
+</div>
+
+1. ⭐ **Star** & 👀 **Watch** the repo
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/new-domain-team
+   ```
+3. Implement: **Sequential + Loop** minimal pair
+4. Add tests & docs; open a PR
+
+---
+
+## 📘 Academic Notes & Disclaimer
+
+> [!WARNING]
+> This project is developed for academic purposes (IIT Ropar, Final Semester).
+> All analyses are **educational** and **not financial advice**.
+
+---
+
+## 🧑‍💻 About the Author
+
+<div align="center">
+
+### Hi, I'm **Srinivas Varma** — building practical, agentic AI systems.
+
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Updates-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srinivasvarma764)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
+
+> [!NOTE]
+> If you like this project, please ⭐ **star** the repo and share feedback!
+
+---
+
+## 📄 License
+
+<div align="center">
+
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+**MIT License** — free for academic and educational use.
+
+</div>
