@@ -413,7 +413,7 @@ print(result["summary"])
 
 <div align="center">
 
-### Hi, I'm **Srinivas Varma** — building practical, agentic AI systems.
+### Hi, I'm **Srinivas Nampalli** — building practical, agentic AI systems.
 
 [![Medium](https://img.shields.io/badge/Medium-Follow%20Updates-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srinivasvarma764)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
