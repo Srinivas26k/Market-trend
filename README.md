@@ -95,9 +95,7 @@ Built with **Google ADK** • **Sequential + Loop** agent patterns • **Free to
 
 ---
 
-## 🏗️ Architecture (Mermaid)
-
-> Replace the placeholder below with your diagram if you export it as an image, or keep the Mermaid live.
+## 🏗️ Architecture
 
 ```mermaid
 flowchart TD
