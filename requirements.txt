@@ -1,0 +1,6 @@
+google-adk
+litellm
+mcp[cli]
+mcp[server]
+requests
+requests-cache
