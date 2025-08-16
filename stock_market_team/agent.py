@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = LiteLlm(model="openrouter/openai/gpt-4o-mini",
+model = LiteLlm(model="openai/gpt-4o-mini",
                 api_key=os.getenv("OPENROUTER_API_KEY"))
 
 
@@ -20,7 +20,7 @@ model = LiteLlm(model="openrouter/openai/gpt-4o-mini",
 
 data_validation_loop = LoopAgent(
     name="DataValidationLoop",
-    max_iterations=10,
+    max_iterations=5,
     sub_agents=[
         stock_data_validation_agent,      # Agent for validating stock data
         stock_data_analysis_agent,        # Agent for analyzing stock data
